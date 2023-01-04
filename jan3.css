@@ -1,0 +1,36 @@
+.firstline{
+	background-image: url(https://wallpaperaccess.com/full/1466431.jpg);
+	background-size: cover;
+	height: 50vh;	
+}
+.secondline{
+	color:white;
+	font-weight:bold;
+	font-family: 'Roboto';
+	padding-top: 200px;
+}
+.imagehat{
+	height: 100px;
+	width: 100px;
+}
+.chrispara{
+	font-weight: bold;
+}
+.christmascard{
+	background-color: ghostwhite;
+	width:170px;
+	border-radius: 10px;
+	padding: 5px;
+	height:150px;
+	text-align:center;
+	margin: 20px;
+}
+.chrisheading{
+	font-size: 15px;
+	font-family: 'Roboto'
+	font-weight: normal;
+}
+.thirdline{
+	background-color: pink;
+	height: 60ph;
+}
